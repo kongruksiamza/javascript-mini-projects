@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: #222;
+    color: white;
+    text-align: center;
+}
+h1{
+    font-size: 100px;
+    cursor: pointer;
+    margin-bottom: 0;
+}
+i{
+    font-size: 100px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+i:hover{
+    color: orange;
+}
+h1:hover{
+    color: orange;
+}
